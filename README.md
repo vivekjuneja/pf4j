@@ -1,3 +1,37 @@
+Multi-Tenant Feature Driven Framework
+=======================================
+
+
+The Elevator Pitch
+-------------------
+
+This framework provides necessary infrastructure to develop / manage sharing and isolation for features across tenants. 
+Application developer can quickly develop multi-tenant applications that are scalable, modular and highly extensible.
+
+The framework includes the following:-
+
+1. Tenant based Feature injection
+2. Shared assets across Tenants
+3. Tenant Feature isolation
+4. Tenant Administration
+
+Technologies used:-
+
+Java 1.6, PF4J Framework, MongoDB, Jackson, Jersey, GSON
+
+Availability
+Sept 2013 - Beta Availability
+End of the Year - 2013 - General Availability
+
+Modifications to PF4J
+-----------------------
+
+PF4J has been modified and extended to be used for a Multi-Tenant Feature driven framework.
+
+The Multi-Tenant Feature drivern Framework allows anyone to build multi-tenant applications based on the ideas of Plugin
+based development. The framework can be used to design and develop multi-tenant system for wide variety of applications.
+
+
 Plugin Framework for Java (PF4J)
 =====================
 A plugin is a way for a third party to extend the functionality of an application. A plugin implements extension points
